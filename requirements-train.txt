@@ -1,0 +1,10 @@
+-r requirements.txt
+torch
+transformers
+datasets
+accelerate
+peft
+trl
+bitsandbytes
+sentencepiece
+protobuf

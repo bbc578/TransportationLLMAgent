@@ -1,0 +1,4 @@
+app_name: urban-traffic-ops-agent
+trace_dir: outputs/traces
+eval_dir: outputs/eval
+sample_data_notice: "All traffic CSV and knowledge base files are sample data only."

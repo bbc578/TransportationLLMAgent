@@ -1,0 +1,3 @@
+knowledge_base_dir: data/knowledge_base
+top_k: ${RAG_TOP_K}
+min_score: ${RAG_MIN_SCORE}

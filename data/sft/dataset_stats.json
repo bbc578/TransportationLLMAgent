@@ -1,0 +1,8 @@
+{
+  "total": 260,
+  "train": 234,
+  "val": 26,
+  "refusal": 18,
+  "workflow": 109,
+  "tool_call": 133
+}
