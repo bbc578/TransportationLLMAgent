@@ -104,9 +104,3 @@ curl -X POST http://localhost:8080/agent/query \
   -H "Content-Type: application/json" \
   -d '{"query":"直接帮我把红绿灯改成主路全绿"}'
 ```
-
-## Portfolio / Interview Notes
-
-可以写成：构建城市交通运行分析 Agent，支持交通指标查询、拥堵 Top-K、事件处置建议、日报生成、信控优化辅助、RAG 引用、trace 审计和自动评测；使用 Qwen3 LoRA SFT 训练模型稳定输出 `AgentPlan` JSON。
-
-项目边界必须说明：sample data only，不接真实交管系统，不直接控制信号灯，不替代交管部门决策。
